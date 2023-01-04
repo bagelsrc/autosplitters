@@ -1,2 +1,2 @@
 # autosplitters
-<ul> <li>Lego racers for PC</li> </ul>
+<ul> <li>LEGO racers for PC</li> </ul>
