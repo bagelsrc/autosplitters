@@ -129,7 +129,7 @@ init
 
 start
 {
-    return current.timer > 0 && current.track == vars.trackList[0];
+    return current.timer > 0 && current.timer < 50 && current.track == vars.trackList[0];
 }
 
 split
