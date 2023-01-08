@@ -134,7 +134,7 @@ start
 
 split
 {
-    return current.lap > old.lap && current.lap == 3;
+    return current.lap == 3 && old.lap == 2 && (vars.trackList.Contains(current.track));
 }
 
 reset
